@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+    background-color: '#ff85be';
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+
+  .note{
+        background-image: url(note.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        border: dotted;
+  }
+
+  .menu{
+    display: flex;
+    padding: 15px;
+  }
+
+  .border{
+    background-image: url(note.jpg);
+    border: dotted;
+    border-color: black;
+  }
+
